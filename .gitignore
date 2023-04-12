@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+deployments
+
+# MM - 'docs'
+_docks
+
+# Hardhat files
+cache
+artifacts
+
